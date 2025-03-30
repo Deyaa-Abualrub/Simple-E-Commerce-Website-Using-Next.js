@@ -1,1 +1,1 @@
-# Simple-E-Commerce-Website-Using-Next.js
+# next-ecommece
